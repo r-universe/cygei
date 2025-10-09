@@ -8,3 +8,6 @@
 [submodule "o2ools"]
 	path = o2ools
 	url = https://github.com/cygei/o2ools
+[submodule "pipetime"]
+	path = pipetime
+	url = https://github.com/cygei/pipetime
